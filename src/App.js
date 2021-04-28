@@ -27,9 +27,9 @@ function App() {
     return (
         <div className="App">
             <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo" />
+                <img src={logo} className="App-logo" alt="react-logo" />
                 <h3>Todo App</h3>
-                <img src={logo} className="App-logo" alt="logo" />
+                <img src={logo} className="App-logo" alt="react-logo" />
             </header>
             <div className="search">
                 <input className="search-box" />
